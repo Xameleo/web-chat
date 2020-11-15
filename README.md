@@ -1,3 +1,3 @@
 # web-chat
 half-dead project
-not finished project without normal front-end
+not finished project on  flask , without normal front-end
